@@ -1,0 +1,9 @@
+    	Album		|	   Artist		|	   Recommender		|	Likes
+============================================================================
+   Shadowtask EP	|       Pylot		|         Will			| 0
+      Classics		|	   Ratatat		|        Nathan			| 0
+    Starfighter		|	 Nightrunner	|		 Nathan			| 0
+     Soft Hair		|	  Soft Hair		|		  Alex			| 0
+		ZABA		|	Glass Animals	|		 Nathan			| 0
+Flower Dance (song) |	 DJ Okawari		|		 Nathan			| 0
+  Feather (song)	|	   Nujabes		|		  Ben			| 0
