@@ -86,4 +86,5 @@ while True:
             new_name = filename
         with open(new_name, "w") as f:
             f.write(to_string(keys, data, False))
+        break;
 
