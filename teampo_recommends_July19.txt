@@ -1,6 +1,7 @@
-  Album     |      Artist       |   Genre/Notes   |   Recommender   |   Likes
-===============================================================================
-Portraits   |   Maribou State   |   Electronic    |   Nathan        |   0
+  Album     |      Artist       |         Genre/Notes         |   Recommender   |   Likes
+===========================================================================================
+Portraits   |   Maribou State   |   Electronic                |   Nathan        |   0
+Orc         |   Oh Sees         |   Psychedelic garage rock   |   Alex          |   0
 
 
 (s) indicates a song
